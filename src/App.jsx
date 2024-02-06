@@ -1,7 +1,7 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 import { Footer, Navbar } from "./components";
-// import { About, Contact, Home, Projects } from "./pages";
+import { About, Contact, Home, Projects } from "./pages";
 
 const App = () => {
   return (
