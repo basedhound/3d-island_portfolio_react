@@ -13,9 +13,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[🇬🇧]** This 3D website, built with React and powered by Three.js, features engaging interactive elements. Navigate aboard a small plane to explore a floating island and discover various information. On the contact page, a fox will dynamically react as you fill out the fields!
+**[EN]** This 3D website, built with React and powered by Three.js, features engaging interactive elements. Navigate aboard a small plane to explore a floating island and discover various information. On the contact page, a fox will dynamically react as you fill out the fields!
 
-**[🇫🇷]** Ce site web 3D, construit avec React et propulsé par Three.js, propose des éléments interactifs captivants. Naviguez à bord d'un petit avion pour explorer une île flottante et découvrir diverses informations. Sur la page de contact, un renard réagira dynamiquement à mesure que vous remplirez les champs !
+**[FR]** Ce site web 3D, construit avec React et propulsé par Three.js, propose des éléments interactifs captivants. Naviguez à bord d'un petit avion pour explorer une île flottante et découvrir diverses informations. Sur la page de contact, un renard réagira dynamiquement à mesure que vous remplirez les champs !
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
