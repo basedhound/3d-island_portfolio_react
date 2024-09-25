@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://3d-island-fv.netlify.app" target="_blank">
+    <a href="https://3d-island-fv.vercel.app" target="_blank">
       <img src="public/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">3D Island Portflio</h3>
